@@ -1,0 +1,7 @@
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\bin\Debug\ExercicioContaBancaria.exe.config
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\bin\Debug\ExercicioContaBancaria.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\bin\Debug\ExercicioContaBancaria.pdb
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\obj\Debug\ExercicioContaBancaria.csproj.AssemblyReference.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\obj\Debug\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\obj\Debug\ExercicioContaBancaria.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContaBancaria\obj\Debug\ExercicioContaBancaria.pdb

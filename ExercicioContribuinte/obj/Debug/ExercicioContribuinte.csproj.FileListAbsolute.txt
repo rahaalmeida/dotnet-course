@@ -1,0 +1,7 @@
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\bin\Debug\ExercicioContribuinte.exe.config
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\bin\Debug\ExercicioContribuinte.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\bin\Debug\ExercicioContribuinte.pdb
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\obj\Debug\ExercicioContribuinte.csproj.AssemblyReference.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\obj\Debug\ExercicioContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\obj\Debug\ExercicioContribuinte.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioContribuinte\obj\Debug\ExercicioContribuinte.pdb
