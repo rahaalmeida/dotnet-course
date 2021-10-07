@@ -1,0 +1,7 @@
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\bin\Debug\ExercicioPostagem.exe.config
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\bin\Debug\ExercicioPostagem.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\bin\Debug\ExercicioPostagem.pdb
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\obj\Debug\ExercicioPostagem.csproj.AssemblyReference.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\obj\Debug\ExercicioPostagem.csproj.CoreCompileInputs.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\obj\Debug\ExercicioPostagem.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioPostagem\obj\Debug\ExercicioPostagem.pdb

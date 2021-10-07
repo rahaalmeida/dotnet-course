@@ -1,0 +1,7 @@
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\obj\Debug\ExercicioLista.csproj.AssemblyReference.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\obj\Debug\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\bin\Debug\ExercicioLista.exe.config
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\bin\Debug\ExercicioLista.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\bin\Debug\ExercicioLista.pdb
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\obj\Debug\ExercicioLista.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioLista\obj\Debug\ExercicioLista.pdb

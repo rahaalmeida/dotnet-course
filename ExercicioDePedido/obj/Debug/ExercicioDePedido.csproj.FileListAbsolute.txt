@@ -1,0 +1,7 @@
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\obj\Debug\ExercicioDePedido.csproj.AssemblyReference.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\obj\Debug\ExercicioDePedido.csproj.CoreCompileInputs.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\bin\Debug\ExercicioDePedido.exe.config
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\bin\Debug\ExercicioDePedido.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\bin\Debug\ExercicioDePedido.pdb
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\obj\Debug\ExercicioDePedido.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioDePedido\obj\Debug\ExercicioDePedido.pdb

@@ -1,0 +1,7 @@
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\bin\Debug\ExercicioMetodoAbstrato.exe.config
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\bin\Debug\ExercicioMetodoAbstrato.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\bin\Debug\ExercicioMetodoAbstrato.pdb
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.exe
+C:\Users\rah_a\source\repos\CursoExercicios\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.pdb
